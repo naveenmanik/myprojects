@@ -1,0 +1,71 @@
+<html>
+    <head>
+<script>
+     
+     function lightoff(){
+         
+     }
+</script>
+<style>
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    .container{
+        height: 100vh;
+        width:100vw;
+        display:flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: #0b0b0b;
+    }
+    .light{
+        width: 100px;
+    }
+    .cat{
+        width: 150px;
+        height:170px;
+
+    }
+    .switch-board{
+        background-color: #7b8794;
+        color: #ffffff;
+        height: 100px;
+        width: 200px;
+        padding: 5px;
+        border-radius: 8px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .btn{
+        width: 50px;
+        height: 25px;
+
+    }
+</style>
+    </head>
+    <body>
+<div class="container">
+    <div id="bulb">
+        <img class="light" scr="https://warisanlighting.com/wp-content/uploads/2016/06/ceiling-light-bulb-photo-6.jpg" alt="light">
+    </div>
+    <div id="cat-img">
+        <img class="cat" scr="https://www.pngall.com/british-shorthair-cat-png" alt="cat">
+    </div>
+    <div class="switch-board">
+        <h1>
+            switch on
+        </h1>
+        <div class="button">
+            <button class="btn" onclick="lightoff"></button>
+            <button class="btn" onclick="lighton"></button>
+            
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>

@@ -1,0 +1,7 @@
+insert into student(reg_no,name,place,postal_code)
+values(39,'naveen_manik','sakenatepelli',533251),(701,'abdul_riyaz','kallakurichi',606202),(54,'eshwar','nalagonda',508207),
+(22,'kamesh','maduravayal',600095),(32,'teja_reddy','gunture',522305),(53,'raja','prakasham',523105),(37,'ashok','sanga_reddy',502270),
+(17,'gopi_krishna','krishna',521190),(42,'sai_ram','thiruvanamalli',604401),(704,'sravan','hydrabad',500092),(56,'raushni','patna',800005),(33,'lohitha','penumur',517126),
+(13,'devatharhini','cuddalore',607308),(46,'shyamala','nallathukudi',609001),(45,'shakthi','nallathukudi',609001),(47,'sumana_sree','kishkindhapalem',522257),
+(4,'annamalai','arrakonam',631151),(14,'divakar','west_tambaram',600045),(20,'jegadesan','perambalur',621115),(6,'aravind','perungalatur',600063),(16,'gokul_raj','kanchipuram',631502),
+(3,'anand_kumar','perungudi',600096),(19,'jebastin','kovalam',603112),(9,'balaji','chepauk',600005),(51,'rishi','pulivendula',516390)(84868,'prasanna','palakollu',534260)
